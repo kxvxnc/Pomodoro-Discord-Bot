@@ -11,9 +11,9 @@ The bot messages the user when to begin working and take a break.
 
 # To Do
 - [x] Basic timer function
-- [] N amount of pomodoro cycles
-- [] Customizable work/break messages
-- [] Getting it to production
+- [ ] N amount of pomodoro cycles
+- [ ] Customizable work/break messages
+- [ ] Getting it to production
 
 # Prerequisites
 - Python 3+ and pip
